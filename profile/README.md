@@ -1,3 +1,5 @@
+<img alt="micro logo" src="./calstatepays_logo.png"/>
+
 # CalStatePays
 
 > See the page in action by visiting https://calstatepays.org
