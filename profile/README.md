@@ -1,4 +1,4 @@
-<img alt="micro logo" src="./calstatepays_logo.png"/>
+<img alt="calstatepays logo" src="./profile/calstatepays_logo.png"/>
 
 # CalStatePays
 
